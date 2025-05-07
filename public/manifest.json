@@ -1,0 +1,21 @@
+{
+  "name": "Sulle orme di Carmen",
+  "short_name": "Orme di Carmen",
+  "description": "Previsioni Meteo Pellegrinaggio sulle orme di Carmen - 8-13 Maggio 2025 - Parrocchia Sacra Famiglia Palermo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1784c7",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
